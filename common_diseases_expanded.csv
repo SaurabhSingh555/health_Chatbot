@@ -1,0 +1,32 @@
+Category,Symptom,Cause,Medicines (Indian),Home Remedies,Precautions,Hindi Explanation
+Periods,पेट में तेज दर्द (Cramps),Prostaglandin release,"Meftal-Spas, Drotin-M","गुनगुना पानी, hot water bag, हल्की walk","ठंडी चीज़ें avoid करें, heavy exercise ना करें","पीरियड्स में पेट दर्द आम है, हार्मोनल बदलाव के कारण होता है"
+Periods,ज़्यादा bleeding,"Hormonal imbalance, Fibroids","Tranexamic acid (doctor की सलाह से), Iron supplement","आयरन-rich खाना, आराम",Self-medication ना करें,अगर bleeding 7 दिन से ज़्यादा हो तो तुरंत डॉक्टर को दिखाएँ
+Periods,थकान और चक्कर,"Iron deficiency, हार्मोनल बदलाव","Iron tablets, Multivitamins","पालक, गुड़, अनार खाना",जंक फूड avoid करें,पीरियड्स के दौरान आयरन कम होने से थकान होती है
+Cold,नाक बहना (Runny Nose),"Viral infection, Allergies","Cetirizine, Sinarest","अदरक-शहद, भाप लेना",धूल और ठंड से बचें,सर्दी-ज़ुकाम में नाक बहना वायरस के कारण होता है
+Cold,गले में खराश,Viral/Bacterial infection,"Azithromycin (doctor की सलाह से), Lozenges","गुनगुना पानी, नमक के पानी से गरारे",ठंडी चीज़ें avoid करें,गले में खराश बैक्टीरिया या वायरस से हो सकती है
+Fever,हल्का बुखार,Viral/Bacterial infection,"Dolo-650, Paracetamol","नींबू-पानी, आराम",खुद से एंटीबायोटिक ना लें,बुखार infection से लड़ने का तरीका है
+Fever,तेज़ बुखार (102°F+),"Typhoid, Dengue, Viral Fever","Paracetamol, ORS","पानी पीना, ठंडी पट्टी",डॉक्टर से तुरंत संपर्क करें,तेज़ बुखार गंभीर बीमारी का संकेत हो सकता है
+Stomach,पेट दर्द,"Acidity, Gastritis","Gelusil, Digene","नींबू-पानी, सादा खाना",तेल-मसालेदार खाना avoid करें,पेट दर्द कई कारणों से हो सकता है
+Stomach,Loose motion,"Food poisoning, Infection","ORS, Norflox-TZ","पानी, दही-चावल",गंदा पानी avoid करें,Loose motion डिहाइड्रेशन कर सकता है
+Skin,दाने / एलर्जी,Allergic reaction,"Cetzine, Avil",एलोवेरा जेल,खुजली वाले प्रोडक्ट से बचें,"एलर्जी धूल, खाने या दवा से हो सकती है"
+Skin,मुंहासे,"Hormonal changes, Oil","Clindamycin gel, Neem facewash","नीम पत्ता, हल्दी पेस्ट",ज्यादा तैलीय खाना avoid करें,मुंहासे hormonal और diet के कारण होते हैं
+Headache,सिर में दर्द (Pain in Head),"Stress, Dehydration, Sinus, Migraine","Saridon, Crocin, Aspirin","नींबू-पानी, आराम, tea","Screen time कम करें, भरपूर पानी पिएं","सिर में दर्द तनाव, पानी की कमी या साइनस के कारण हो सकता है"
+Cough,सूखी खांसी (Dry Cough),"Viral infection, Allergies, Pollution","Benadryl, Ascoril","अदरक-शहद, गर्म पानी में नमक","ठंडी चीज़ें avoid करें, मास्क पहनें","सूखी खांसी एलर्जी या वायरस से हो सकती है, धूल से बचें"
+Cough,बलगम वाली खांसी (Wet Cough),"Bacterial infection, Bronchitis","Alex, Tixylix","भाप लेना, गरम पानी पीना","दूध और दही avoid करें, धूम्रपान से बचें",बलगम वाली खांसी फेफड़ों में संक्रमण का संकेत हो सकती है
+Sore Throat,गले में खराश और दर्द (Painful Throat),"Viral/Bacterial infection, Laryngitis","Strepsils, Vicks, Azithromycin","गुनगुने पानी से गरारे, मुलेठी","ठंडी चीज़ें न खाएं, ज़ोर से न बोलें","गले में खराश, संक्रमण या ठंडा खाने से हो सकती है"
+Dental,दांत में दर्द (Toothache),"Cavity, Gum infection, Sensitive teeth","Combiflam, Ketorol DT","लौंग का तेल, नमक का पानी","मीठा खाना कम करें, रोज़ ब्रश करें","दांत दर्द, कैविटी या मसूड़ों के संक्रमण के कारण हो सकता है"
+Eye,आंखों में जलन (Burning Eyes),"Dust, Screen time, Allergies","Ocupol D, Ciprofloxacin drops","ठंडे पानी से धोना, खीरा रखना","आंखों को बार-बार न छुएं, चश्मा पहनें",आंखों में जलन धूल या ज़्यादा स्क्रीन टाइम से होती है
+Joint Pain,जोड़ों में दर्द (Pain in Joints),"Arthritis, Injury, Old age","Volini, Diclofenac gel","हल्दी वाला दूध, गरम तेल की मालिश","सही posture रखें, हल्का व्यायाम करें","जोड़ों का दर्द गठिया, चोट या उम्र के कारण हो सकता है"
+Acidity,छाती में जलन (Heartburn),"Spicy food, Irregular meals, Stress","Gelusil, Digene, Eno","छाछ, नींबू पानी, अदरक","मसालेदार खाना कम खाएं, समय पर खाना खाएं","छाती में जलन, मसालेदार या अनियमित भोजन के कारण होती है"
+Constipation,कब्ज (Hard Stools),"Low fiber intake, Dehydration, Sedentary lifestyle","Isabgol, Lactulose","गरम पानी, पपीता, सलाद","फाइबर युक्त भोजन लें, खूब पानी पिएं",कब्ज फाइबर की कमी या पानी कम पीने से हो सकती है
+Diabetes,पेशाब बार-बार आना (Frequent Urination),"High blood sugar, Insulin resistance","Metformin, Glycomet","करेले का जूस, नीम का पानी","शुगर कम खाएं, नियमित व्यायाम करें",डायबिटीज में ब्लड शुगर बढ़ने से पेशाब ज़्यादा आता है
+High BP,"सिर घूमना (Dizziness), थकान","Stress, High sodium intake, Obesity","Telma, Amlodipine","लहसुन, नींबू पानी","नमक कम खाएं, योग करें, मेडिटेशन",ब्लड प्रेशर बढ़ने से चक्कर और थकान महसूस होती है
+Anxiety,"घबराहट (Nervousness), दिल की धड़कन तेज","Stress, Hormonal imbalance",Alprazolam (doctor की सलाह से),"गहरी सांस लेना, मेडीटेशन","योग करें, अच्छी नींद लें",घबराहट तनाव या चिंता के कारण हो सकती है
+Allergy,शरीर पर दाने (Skin Rashes),"Food allergy, Dust, Pollen","Cetirizine, Avil",नीम के पत्ते का पानी,"एलर्जी वाली चीज़ों से बचें, साफ़-सफाई रखें",एलर्जी से शरीर पर दाने और खुजली हो सकती है
+Dengue,"तेज बुखार, शरीर में दर्द (High Fever, Body Ache)",Mosquito bite (Aedes aegypti),"Paracetamol, ORS",पपीते के पत्ते का रस,"मच्छरदानी का इस्तेमाल करें, पानी न जमा होने दें","डेंगू, मच्छर के काटने से फैलता है और तेज बुखार आता है"
+Thyroid,वजन बढ़ना या घटना (Weight Fluctuation),Hormonal imbalance,Thyronorm (doctor की सलाह से),"नियमित व्यायाम, हेल्दी डाइट",आयोडीन युक्त नमक का सेवन करें,थायराइड हार्मोनल असंतुलन से होता है और वजन प्रभावित होता है
+Migraine,आधे सिर में तेज दर्द (Severe Pain in Half Head),"Genetic, Stress, Lack of sleep","Naproxen, Sumatriptan (doctor की सलाह से)","अंधेरे कमरे में आराम, माथे पर ठंडा पैक","पूरी नींद लें, तनाव कम करें","माइग्रेन एक प्रकार का गंभीर सिरदर्द है, जो तनाव से बढ़ सकता है"
+Urinary,पेशाब में जलन (Burning Urination),Urinary tract infection (UTI),"Norfloxacin, Urifree","खूब पानी पिएं, नारियल पानी","साफ़-सफाई का ध्यान रखें, पब्लिक शौचालय से बचें",पेशाब में जलन UTI का संकेत हो सकता है
+Heart,"छाती में दर्द (Chest Pain), सांस फूलना","Heart disease, high cholesterol",Aspirin (doctor की सलाह से),"अलसी के बीज, लहसुन","तेल वाला खाना कम खाएं, टहलने जाएं","सीने में दर्द दिल की बीमारी का संकेत हो सकता है, डॉक्टर को दिखाएं"
+Cholesterol,कोई खास लक्षण नहीं,"Unhealthy diet, Lack of exercise, Genetics",Statins (doctor की सलाह से),"ओट्स, बादाम, अलसी के बीज","फाइबर युक्त भोजन लें, नियमित व्यायाम करें","ज़्यादा कोलेस्ट्रॉल का कोई लक्षण नहीं होता, इसलिए चेकअप ज़रूरी है"
+Anemia,"कमजोरी (Weakness), नाखून और होंठ पीले",Iron deficiency,"Iron tablets, Folic acid supplements","पालक, अनार, गुड़","पौष्टिक खाना खाएं, आयरन रिच फ़ूड लें",खून की कमी (Anemia) से कमजोरी और थकान महसूस होती है
